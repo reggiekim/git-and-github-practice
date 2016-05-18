@@ -1,1 +1,1 @@
-// JavaScript to be added
+alert("Hey Yuna, this alert sucks ass")
